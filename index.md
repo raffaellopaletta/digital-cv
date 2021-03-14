@@ -22,7 +22,8 @@ I also deal with devops tasks, such as configuring orchestrations tools (nomad, 
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
 
-https://badgen.net/badge/SYMFONY/from2to5/white
+
+<img alt="SYMFONY" src="https://img.shields.io/badge/SYMFONY-from2to5-lightgrey"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
