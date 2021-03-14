@@ -16,4 +16,6 @@ I also deal with devops tasks, such as configuring orchestrations tools (nomad, 
 
 **Tech Resume**
 
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
