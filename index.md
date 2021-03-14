@@ -6,6 +6,14 @@
 
 **Roles**: Senior Software Architect\Developer - Head of Backend
 
-**Project Short Description**: 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+Software Architect and Developer using state-of-the-art technologies and methodologies (e.g. Microservices Architecture, Domain-Driven Design, Continuous Integration\Deployment, Serverless Architecture, Faas, Docker, api gateway) modern frameworks and stacks (e.g. Symfony2-5, Express.js, ELK, Datadog) development best practices (e.g design patterns) and collaboration tools to increase productivity (e.g. Slack, github, wrike, circleci).
+I also deal with devops tasks, such as configuring orchestrations tools (nomad, kubernetes) that runs on cloud (aws, digitalocean).
+
+**Project**: Xconik - from vending to instant e-commerce
+
+- scope: E-Commerce, IoT
+- site: https://www.xconik.com
+
+**Tech Resume**
+
 
