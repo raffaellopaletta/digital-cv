@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# Project & Experience
 
-You can use the [editor on GitHub](https://github.com/raffaellopaletta/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Oct 2017 - Present
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Xconik
+
+**ROLES**: Senior SW Architect\Developer - Head of Backend
+**Project**: https://www.xconik.com/
 
 ### Markdown
 
