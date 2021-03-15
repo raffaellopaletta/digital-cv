@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: Raffaello Paletta
 description: "Senior Software Engineer<br/><br/>
-<a href='#'>Oct 2017 - Present</a><br/>
-<a href='#'>Apr 2009 - Oct 2017</a><br/>
+<b>Job Positions<b><br/>
+<a href='index.md'>Oct 2017 - Present</a><br/>
+<a href='alternet.md'>Apr 2009 - Oct 2017</a><br/>
 "
 logo: /assets/img/avatar.png
