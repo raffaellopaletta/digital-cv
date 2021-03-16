@@ -7,7 +7,7 @@
 **Project**: Xconik - from vending machines to instant e-commerce
 
 - scope: E-Commerce, IoT
-- site: https://www.xconik.com
+- site: [https://www.xconik.com](https://www.xconik.com)
 
 **Role**: Senior Software Architect, Backend Developer 
 
