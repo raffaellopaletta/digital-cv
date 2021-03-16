@@ -14,6 +14,8 @@
 Software Architect and Developer using state-of-the-art technologies and methodologies (e.g. Microservices Architecture, Domain-Driven Design, Continuous Integration\Deployment, Serverless Architecture, Faas, Docker, api gateway) modern frameworks and stacks (e.g. Symfony2-5, Express.js, ELK, Datadog) development best practices (e.g design patterns) and collaboration tools to increase productivity (e.g. Slack, github, wrike, circleci).
 I also deal with devops tasks, such as configuring orchestrations tools (nomad, kubernetes) that runs on cloud (aws, digitalocean).
 
+---
+
 **Tech Resume** 
 
 <img alt="DDD" src="https://img.shields.io/badge/Domain%20Driven%20Desing-red?&style=for-the-badge"/> 
