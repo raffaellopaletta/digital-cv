@@ -55,7 +55,7 @@ I also deal with devops tasks, such as configuring orchestrations tools (nomad, 
 
 ---
 
-**Project**: ELM - Embedded Content Distribution
+**Project**: ELM - Embedded Local Mirrors
 
 - scope: Content Distribution, Scalability
 - site: [https://www.alternet.it/elm/](https://www.alternet.it/elm/)
