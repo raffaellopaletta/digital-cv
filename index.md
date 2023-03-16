@@ -9,7 +9,7 @@
 - scope: E-Commerce, IoT
 - site: [https://www.xconik.com](https://www.xconik.com)
 
-**Role**: Senior Software Architect, Backend Developer 
+**Role**: Head of Project, Lead Software Architect, Backend Developer 
 
 Software Architect and Developer using state-of-the-art technologies and methodologies (e.g. Microservices Architecture, Domain-Driven Design, Continuous Integration\Deployment, Serverless Architecture, Faas, Docker, api gateway) modern frameworks and stacks (e.g. Symfony2-5, Express.js, ELK, Datadog) development best practices (e.g design patterns) and collaboration tools to increase productivity (e.g. Slack, github, wrike, circleci).
 I also deal with devops tasks, such as configuring orchestrations tools (nomad, kubernetes) that runs on cloud (aws, digitalocean).
